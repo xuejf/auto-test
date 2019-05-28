@@ -1,0 +1,27 @@
+{
+    "result_data":{
+        "bundle_id":"com.lezhi.wawaji",
+        "channel_id":"20141208",
+        "channel_key":"def5a36fe65e6933ec9e285ee161b9fe",
+        "oid":312,
+        "request_time":"1526543490",
+        "secret":"c7d4cead169d50ffd138d3301366b180",
+        "token":"251366a3eb53fd010c1a7b49da496923",
+        "type":"3",
+        "yb_item_id":"7",
+        "ysx_appid":"yxs14615737845553",
+        "ysx_appkey":"Y3AxNDMxNDg5ODQyNTUzMg==",
+        "ysx_build":"1.6.11",
+        "ysx_os":"2",
+        "ysx_ua":"iPhone7,
+        2",
+        "ysx_udid":"5A07A120-A375-477C-A988-A9D6C590145E",
+        "ysx_version":"1.6.1",
+        "from_uid":312,
+        "uid":312,
+        "order_no":"YB2018051707552459220900",
+        "order_amount":"0.01",
+        "order_desc":"0.01元购买10娃娃币"
+    },
+    "result_code":1
+}

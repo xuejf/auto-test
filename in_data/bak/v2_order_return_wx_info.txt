@@ -1,0 +1,18 @@
+{
+    "amount": "0.10",
+    "bundle_id": "com.lezhi.wawaji",
+    "channel_id": "20141208",
+    "channel_key": "def5a36fe65e6933ec9e285ee161b9fe",
+    "oid": "25",
+    "order_no": "YB2018060802454789590900",
+    "request_time": "1528425953",
+    "secret": "69ee6b39c59a35cba1817d9b5a224648",
+    "token": "818ec19e08270d8e211c002ffae876e2",
+    "ysx_appid": "yxs14615737845553",
+    "ysx_appkey": "Y3AxNDMxNDg5ODQyNTUzMg==",
+    "ysx_build": "1.6.20",
+    "ysx_os": "2",
+    "ysx_ua": "iPhone7,2",
+    "ysx_udid": "5A07A120-A375-477C-A988-A9D6C590145E",
+    "ysx_version": "1.6.2"
+}

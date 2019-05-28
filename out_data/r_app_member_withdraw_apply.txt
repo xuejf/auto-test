@@ -1,0 +1,1 @@
+{'data': {'all_money': '0.00', 'recommend_money': '0.00', 'is_fenxiao_invite': True, 'none': {'finance': {'status': False}, 'alipay': {'status': False}, 'wechat': {'status': False}}}, 'status': {'succeed': '1'}}

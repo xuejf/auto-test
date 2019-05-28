@@ -1,0 +1,1 @@
+{'hasmore': False, 'curpage': 1, 'page_total': 1, 'data': {'list': [{'create_at': '1503021773', 'money': '1000.00', 'info': ['张腾', '测试'], 'type': '2', 'flag': '0', 'create_at_test': '2017-08-18', 'flag_test': '申请中'}]}, 'status': {'succeed': '1'}}
